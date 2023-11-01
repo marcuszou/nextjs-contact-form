@@ -34,7 +34,7 @@ Thirdly, go to https://cloud.mongodb.com and create a free-tier MongoDB project:
   MONGODB_URI=mongodb+srv://<username>:<password>@cluster0.hsqoyc4.mongodb.net/contact_db
   ```
 
-- fill the <username> and the <password> with what you copied down previously.
+- fill the \<username> and the \<password> with what you copied down previously.
 
 Fourthly, run the development server:
 
